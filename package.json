@@ -1,0 +1,23 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "This project will be my first attempt at building a portfolio website which talks about who I am and what I am currently doing. This website will be built using the web technolgoies that I have learned about through online resources.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntang58/personal-website.git"
+  },
+  "author": "Nicholas Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntang58/personal-website/issues"
+  },
+  "homepage": "https://github.com/ntang58/personal-website#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+    "ejs": "^2.5.8"
+  }
+}
